@@ -20,7 +20,7 @@ https://www.virtualbox.org/wiki/Downloads
 
 ![2](https://user-images.githubusercontent.com/43987455/48970852-e6820580-f054-11e8-9b0b-06123f495e86.JPG)
 
-## Download CentOS
+## Download CentOS(File size : 4.16G)
 
 https://www.centos.org/
 
