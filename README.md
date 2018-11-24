@@ -31,7 +31,7 @@ https://www.centos.org/
 
 ![5](https://user-images.githubusercontent.com/43987455/48970901-c272f400-f055-11e8-9de2-9fabdc51074c.JPG)
 
-## Virtual BoxにCentOS設置
+## Virtual BoxにCentOSを設置するための準備
 
 > 新規選択後、名前設定
 
@@ -53,11 +53,23 @@ https://www.centos.org/
 
 ![12](https://user-images.githubusercontent.com/43987455/48971126-277c1900-f059-11e8-85fb-864cf960db9d.JPG)
 
+> 設定
+
 ![13](https://user-images.githubusercontent.com/43987455/48971127-277c1900-f059-11e8-9145-0b61aa14324f.JPG)
+
+> ストレージでISOファイルを追加します。
+
 ![14](https://user-images.githubusercontent.com/43987455/48971128-2814af80-f059-11e8-8fab-6a0def49d39d.JPG)
 ![15](https://user-images.githubusercontent.com/43987455/48971129-2814af80-f059-11e8-884f-f06d7c82a188.JPG)
 ![16](https://user-images.githubusercontent.com/43987455/48971118-25b25580-f059-11e8-98ee-4167f6f40267.JPG)
+
+> ネットワーク設定後、OKクリック。
 ![17](https://user-images.githubusercontent.com/43987455/48971119-264aec00-f059-11e8-8bc7-a495c978fb7a.jpg)
+
+## Vitual BoxでCentOS設置
+
+> 起動
+
 ![18](https://user-images.githubusercontent.com/43987455/48971120-264aec00-f059-11e8-9462-c119c5d05f06.JPG)
 
 
