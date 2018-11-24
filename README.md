@@ -27,7 +27,8 @@ https://www.centos.org/
 ![3](https://user-images.githubusercontent.com/43987455/48970903-c69f1180-f055-11e8-92ea-19ebbca6345f.JPG)
 ![4](https://user-images.githubusercontent.com/43987455/48970900-c272f400-f055-11e8-82e4-1bc0e6249f4b.JPG)
 
-> Download 'CentOS-7-x86_64-DVD-1804.iso' file
+> Download **'CentOS-7-x86_64-DVD-1804.iso'** file
+
 ![5](https://user-images.githubusercontent.com/43987455/48970901-c272f400-f055-11e8-9de2-9fabdc51074c.JPG)
 
 
