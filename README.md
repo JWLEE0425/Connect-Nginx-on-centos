@@ -57,7 +57,7 @@ https://www.centos.org/
 
 ![13](https://user-images.githubusercontent.com/43987455/48971127-277c1900-f059-11e8-9145-0b61aa14324f.JPG)
 
-> ストレージでISOファイルを追加します。
+> ストレージで前にダウンロードしたISOファイルを追加します。
 
 ![14](https://user-images.githubusercontent.com/43987455/48971128-2814af80-f059-11e8-8fab-6a0def49d39d.JPG)
 ![15](https://user-images.githubusercontent.com/43987455/48971129-2814af80-f059-11e8-884f-f06d7c82a188.JPG)
