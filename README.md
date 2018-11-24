@@ -4,14 +4,11 @@
 
 * Virtualbox
 
-* OS<br>
-CentOS 7
+* OS : CentOS 7
 
-* サーバー<br>
-Nginx 1.14 1
+* サーバー : Nginx 1.14 1
 
-* 言語<br>
-PHP 7.0.32
+* 言語 : PHP 7.0.32
 
 
 ## ダウンロード Virtual Box
