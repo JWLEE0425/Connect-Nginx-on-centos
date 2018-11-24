@@ -33,12 +33,26 @@ https://www.centos.org/
 
 ## Virtual BoxにCentOS設置
 
+> 新規選択後、名前設定
+
 ![7](https://user-images.githubusercontent.com/43987455/48971121-26e38280-f059-11e8-80eb-5396f1dde756.JPG)
+
+> メモリーサイズ設定(1Gまたは、2G)
+
 ![8](https://user-images.githubusercontent.com/43987455/48971122-26e38280-f059-11e8-9d1f-108db871a425.JPG)
+
+
+> 基本設定
+
 ![9](https://user-images.githubusercontent.com/43987455/48971123-26e38280-f059-11e8-9522-a14631c2fea6.JPG)
 ![10](https://user-images.githubusercontent.com/43987455/48971124-26e38280-f059-11e8-8051-3089f513ef70.JPG)
 ![11](https://user-images.githubusercontent.com/43987455/48971125-277c1900-f059-11e8-88fb-e244a241ef4c.JPG)
+
+
+> ハードディスク サイズ設定(私は50Gに設定しました。サイズを小さくする場合、容量不足で実行不可)
+
 ![12](https://user-images.githubusercontent.com/43987455/48971126-277c1900-f059-11e8-85fb-864cf960db9d.JPG)
+
 ![13](https://user-images.githubusercontent.com/43987455/48971127-277c1900-f059-11e8-9145-0b61aa14324f.JPG)
 ![14](https://user-images.githubusercontent.com/43987455/48971128-2814af80-f059-11e8-8fab-6a0def49d39d.JPG)
 ![15](https://user-images.githubusercontent.com/43987455/48971129-2814af80-f059-11e8-884f-f06d7c82a188.JPG)
