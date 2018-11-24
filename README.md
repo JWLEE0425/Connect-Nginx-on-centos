@@ -64,6 +64,7 @@ https://www.centos.org/
 ![16](https://user-images.githubusercontent.com/43987455/48971118-25b25580-f059-11e8-98ee-4167f6f40267.JPG)
 
 > ネットワーク設定後、OKクリック。
+
 ![17](https://user-images.githubusercontent.com/43987455/48971119-264aec00-f059-11e8-8bc7-a495c978fb7a.jpg)
 
 ## Vitual BoxでCentOS設置
