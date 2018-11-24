@@ -98,7 +98,7 @@ https://www.centos.org/
 
 ![25](https://user-images.githubusercontent.com/43987455/48971726-d96b1380-f060-11e8-913a-b7e5939ceba8.JPG)
 
-> LBMを標準パーテーションに変更後、マウント ポイントを追加します。
+> LVMを標準パーテーションに変更後、マウント ポイントを追加します。
 
 ![26](https://user-images.githubusercontent.com/43987455/48971701-d6702300-f060-11e8-861d-0e3410d1dff4.JPG)
 ![27](https://user-images.githubusercontent.com/43987455/48971702-d6702300-f060-11e8-94ca-da4b398c71f2.JPG)
