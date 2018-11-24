@@ -10,7 +10,6 @@
 
 * 言語 : PHP 7.0.32
 
-<br>
 ## ダウンロード Virtual Box
 
 https://www.virtualbox.org/wiki/Downloads
