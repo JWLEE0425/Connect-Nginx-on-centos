@@ -149,8 +149,7 @@ https://www.centos.org/
 
 ![47](https://user-images.githubusercontent.com/43987455/48971950-5ba90700-f064-11e8-8700-6fb8d7db9160.JPG)
 
-
-
+## CentOS初期設定
 
 
 
