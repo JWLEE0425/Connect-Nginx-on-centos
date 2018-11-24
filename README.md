@@ -141,7 +141,13 @@ https://www.centos.org/
 ![43](https://user-images.githubusercontent.com/43987455/48971718-d8d27d00-f060-11e8-991b-bf6eb450425b.JPG)
 ![44](https://user-images.githubusercontent.com/43987455/48971719-d8d27d00-f060-11e8-84e2-2e955345ef44.JPG)
 
+> 設置が終われば再起動ボタンを押します。
 
+![45](https://user-images.githubusercontent.com/43987455/48971949-5ba90700-f064-11e8-994d-2e2b00c8e84d.JPG)
+
+> 設定したルート パスワードを入力してログインすれば成功！
+
+![47](https://user-images.githubusercontent.com/43987455/48971950-5ba90700-f064-11e8-8700-6fb8d7db9160.JPG)
 
 
 
