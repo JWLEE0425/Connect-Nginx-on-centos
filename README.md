@@ -10,4 +10,4 @@
 
 * 言語 : PHP 7.0.32
 
-[Download Centos](https://github.com/JWLEE0425/Install-Nginx-on-CentOS/blob/master/DownloadCentOS.md)
+1. [Download Centos](https://github.com/JWLEE0425/Install-Nginx-on-CentOS/blob/master/DownloadCentOS.md)
