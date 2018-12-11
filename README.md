@@ -10,6 +10,6 @@
 
 * 言語 : PHP 7.0.32
 
-1. [Download Centos](https://github.com/JWLEE0425/Install-Nginx-on-CentOS/blob/master/DownloadCentOS.md)
-2. Nginx-PHP連結
-3. REST-API
+### 1. [Download Centos](https://github.com/JWLEE0425/Install-Nginx-on-CentOS/blob/master/DownloadCentOS.md)
+### 2. Nginx-PHP連結
+### 3. REST-API
