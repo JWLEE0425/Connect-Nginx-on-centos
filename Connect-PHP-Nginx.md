@@ -153,4 +153,19 @@ listen = /var/run/php70w-fpm.sock
 ![24](https://user-images.githubusercontent.com/43987455/50080320-28a2ff00-022f-11e9-80bc-344386fe0b46.JPG)
 ![25](https://user-images.githubusercontent.com/43987455/50080319-28a2ff00-022f-11e9-9c28-0aa8b54c7ec3.JPG)
 
+> 起動と確認
+
+![26](https://user-images.githubusercontent.com/43987455/50080479-82a3c480-022f-11e9-96fc-0ee7ab0c0a8e.JPG)
+
+## PHP連結
+
+> vi /etc/nginx/conf.d/default.conf　ファイルを編集
+
+![27](https://user-images.githubusercontent.com/43987455/50080527-a6670a80-022f-11e9-9de6-ebca25ebfbba.JPG)
+
+hostname -I でIPアドレス確認可能
+
+![29](https://user-images.githubusercontent.com/43987455/50080526-a6670a80-022f-11e9-9155-ff35b7f14d87.JPG)
+![28](https://user-images.githubusercontent.com/43987455/50080525-a6670a80-022f-11e9-81e2-a40b549f7440.JPG)
+
 
