@@ -13,4 +13,4 @@
 
 ### 1. [Download Centos](https://github.com/JWLEE0425/Install-Nginx-on-CentOS/blob/master/DownloadCentOS.md)
 ### 2. [Connect PHP Nginx](https://github.com/JWLEE0425/Install-Nginx-on-CentOS/blob/master/Connect-PHP-Nginx.md)
-### 3. [REST-API(Use Slim Framework)](https://github.com/JWLEE0425/Install-Nginx-on-CentOS/blob/master/Slime-Framework.md)
+### 3. [REST-API(Use Slim Framework)](https://github.com/JWLEE0425/Install-Nginx-on-CentOS/blob/master/Slim-Framework.md)
