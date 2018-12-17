@@ -208,3 +208,30 @@ vi /uar/share/nginx/html/でindex.phpファイルを作る
 urlでIPアドレス入力してphpが出たら成功
 
 
+## portを追加する時
+
+> vi /etc/nginx/conf.d/default.conf ファイルにサーバを追加します。
+
+![38](https://user-images.githubusercontent.com/43987455/50081035-ce0aa280-0230-11e9-9721-8edb239db9af.JPG)
+上の場合URLは 192.168.100.25:9001 になります。
+最初見えるファイルは、/usr/share/nginx/html/testCentos フォルダにある index.php ファイルです。
+
+最後にportを連結すると、使用できます。
+
+![39](https://user-images.githubusercontent.com/43987455/50081072-e975ad80-0230-11e9-979a-8b5064fc69c7.JPG)
+![40](https://user-images.githubusercontent.com/43987455/50081073-e975ad80-0230-11e9-9540-ec1a91bf2c81.JPG)
+![41](https://user-images.githubusercontent.com/43987455/50081074-e975ad80-0230-11e9-90e8-87703f0cb3ef.JPG)
+
+## nginxが実行されない時、文法検査
+
+~~~
+nginx -t
+~~~
+
+![43](https://user-images.githubusercontent.com/43987455/50081124-08743f80-0231-11e9-9ec4-8c027b80b56e.JPG)
+
+
+
+
+
+
