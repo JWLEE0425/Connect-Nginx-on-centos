@@ -52,5 +52,9 @@ gpgcheck=1
 
 ![8](https://user-images.githubusercontent.com/43987455/50079715-ac5bec00-022d-11e9-93df-39746183be94.JPG)
 
+> DBを設置して実行
+
+![10](https://user-images.githubusercontent.com/43987455/50079625-6dc63180-022d-11e9-87c2-1d7f47ced0ed.JPG)
+
 
 
