@@ -1,4 +1,4 @@
-# Slime-Framework
+# Slim-Framework
 
 ## composer設置
 
