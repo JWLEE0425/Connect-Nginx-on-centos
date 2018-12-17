@@ -34,3 +34,5 @@ baseurl=http://nginx.org/packages/centos/7/$basearch/
 gpgcheck=0
 enabled=1
 ~~~
+
+![4](https://user-images.githubusercontent.com/43987455/50079583-52f3bd00-022d-11e9-800c-bd6788ea3903.JPG)
