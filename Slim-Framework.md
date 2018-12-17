@@ -65,7 +65,7 @@ $app->run();
 ![10](https://user-images.githubusercontent.com/43987455/50081642-550c4a80-0232-11e9-8223-2d53bed430f3.JPG)
 
 ## REST-API練習
-[REST-API File](https://github.com/JWLEE0425/testRestapi)
+**[REST-API File](https://github.com/JWLEE0425/testRestapi)**
 > index.php
 ~~~
 <?php
