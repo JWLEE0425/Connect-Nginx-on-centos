@@ -117,3 +117,39 @@ php -v
 ~~~
 
 ![18](https://user-images.githubusercontent.com/43987455/50080132-c0ecb400-022e-11e9-992b-7d00cbefc7c0.JPG)
+
+> 設定ファイル変更 - vi /etc/php.ini ファイルを下のコマンドに編集
+
+![19](https://user-images.githubusercontent.com/43987455/50080241-00b39b80-022f-11e9-8d88-cfd5a4825b51.JPG)
+
+~~~
+cgi.fix_pathinfo = 0
+allow_url_fopen = Off
+expose_php = Off
+display_errors = Off
+upload_max_filesize = 10M
+~~~
+
+* 探す方法
+' / ' を入力して、探す単語を入力します。
+例：cgi.fix pathinfo = 0 を探す場合、/cgi.fix を入力します。'ｎ' ボタンは次です。
+
+![21](https://user-images.githubusercontent.com/43987455/50080259-0a3d0380-022f-11e9-82d7-a6936bd93511.JPG)
+![22](https://user-images.githubusercontent.com/43987455/50080260-0a3d0380-022f-11e9-8323-77edd2c4604c.JPG)
+![23](https://user-images.githubusercontent.com/43987455/50080261-0a3d0380-022f-11e9-9514-8c4fe00f2428.JPG)
+
+> vi /etc/php-fpm.d/www.conf ファイルを下のコマンドに編集
+
+~~~
+user = nginx
+group = nginx
+listen.owner = nginx 
+listen.group = nginx 
+listen.mode = 0664
+listen = /var/run/php70w-fpm.sock
+~~~
+
+![24](https://user-images.githubusercontent.com/43987455/50080320-28a2ff00-022f-11e9-80bc-344386fe0b46.JPG)
+![25](https://user-images.githubusercontent.com/43987455/50080319-28a2ff00-022f-11e9-9c28-0aa8b54c7ec3.JPG)
+
+
