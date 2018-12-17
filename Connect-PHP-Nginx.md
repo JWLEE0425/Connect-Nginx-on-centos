@@ -72,6 +72,39 @@ character-set-server=utf8
 
 ![14](https://user-images.githubusercontent.com/43987455/50079925-3e63f480-022e-11e9-85cd-fd56de660549.JPG)
 
+> DBを再実行
+
+![16](https://user-images.githubusercontent.com/43987455/50079966-5b002c80-022e-11e9-90aa-5902b560fa0f.JPG)
+
+> rootパスワード設定
+
+~~~
+$ systemctl stop mariadb
+
+$ mysql -uroot mysql
+Mariadb[mysql]> update user set password=password('変更するパスワード') where user='root';
+Mariadb[mysql]> flush privileges;
+Mariadb[mysql]> exit;
+
+$ sudo mysql -uroot -p
+パスワード入力 ...
+ 
+MariaDB[(none)]>
+~~~
+
+## PHP設置
+
+> PHP-FPMを設置
+~~~
+rpm -Uvh https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
+rpm -Uvh https://mirror.webtatic.com/yum/el7/webtatic-release.rpm
+~~~
+上のコマンドができないなら、yum updateをしてください。'yum update' や 'yum install -y epel-release'
+
+> php70w-fpm php70w-opcache設置
+~~~
+yum install php70w-fpm php70w-opcache
+~~~
 
 
 
