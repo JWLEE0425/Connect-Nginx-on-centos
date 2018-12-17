@@ -119,7 +119,7 @@ $app->run();
 ![11](https://user-images.githubusercontent.com/43987455/50081758-9866b900-0232-11e9-99e0-fee116e6d74b.JPG)
 
 ## DBを使ってREST-API、JSON練習
-
+[link](https://github.com/JWLEE0425/testRestapi)
 > 作ったDBテーブル
 
 ![17](https://user-images.githubusercontent.com/43987455/50081819-bc29ff00-0232-11e9-8125-861766130038.JPG)
