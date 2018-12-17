@@ -37,4 +37,20 @@ enabled=1
 
 > nginxを設置して実行
 
-![10](https://user-images.githubusercontent.com/43987455/50079625-6dc63180-022d-11e9-87c2-1d7f47ced0ed.JPG)
+![6](https://user-images.githubusercontent.com/43987455/50079658-846c8880-022d-11e9-95c6-411470e9c2d1.JPG)
+
+## MariaDB設置
+
+> vi /etc/yum.repos.d/MariaDB.repo を作って下のコマンドを追加
+~~~
+[mariadb]
+name=MariaDB
+baseurl=http://yum.mariadb.org/10.2/rhel7-amd64
+gpgkey=https://yum.mariadb.org/RPM-GPG-KEY-MairaDB
+gpgcheck=1
+~~~
+
+![8](https://user-images.githubusercontent.com/43987455/50079715-ac5bec00-022d-11e9-93df-39746183be94.JPG)
+
+
+
