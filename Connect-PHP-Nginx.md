@@ -130,7 +130,7 @@ display_errors = Off
 upload_max_filesize = 10M
 ~~~
 
-* 探す方法
+* 探す方法 <br>
 ' / ' を入力して、探す単語を入力します。
 例：cgi.fix pathinfo = 0 を探す場合、/cgi.fix を入力します。'ｎ' ボタンは次です。
 
