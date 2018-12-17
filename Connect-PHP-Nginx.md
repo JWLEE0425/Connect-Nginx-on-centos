@@ -63,5 +63,15 @@ default-character-set=uft8
 
 ![12](https://user-images.githubusercontent.com/43987455/50079823-fe047680-022d-11e9-93e1-72c236e8d633.JPG)
 
+> vi /etc/my.cnf.d/server.cnf　ファイルを編集して下のコマンドを追加
+~~~
+max_connections=512
+wait_timeout=30
+character-set-server=utf8
+~~~
+
+![14](https://user-images.githubusercontent.com/43987455/50079925-3e63f480-022e-11e9-85cd-fd56de660549.JPG)
+
+
 
 
