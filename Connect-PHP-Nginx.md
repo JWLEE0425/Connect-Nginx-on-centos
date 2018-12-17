@@ -26,7 +26,7 @@ SELINUX=enforcing を SELINUX=disabled に
 
 > vi /etc/yum.repos.d/nginx.repo を作って下のコマンドを追加
 
-"`
+“`
 [nginx]
 name=nginx repo
 baseurl=http://nginx.org/packages/centos/7/$basearch/
