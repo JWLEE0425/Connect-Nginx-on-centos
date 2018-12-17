@@ -25,8 +25,6 @@ SELINUX=enforcing を SELINUX=disabled に
 ## Nginx設置
 
 > vi /etc/yum.repos.d/nginx.repo を作って下のコマンドを追加
-
-nginx.repo
 ~~~
 [nginx]
 name=nginx repo
@@ -36,3 +34,7 @@ enabled=1
 ~~~
 
 ![4](https://user-images.githubusercontent.com/43987455/50079583-52f3bd00-022d-11e9-800c-bd6788ea3903.JPG)
+
+> nginxを設置して実行
+
+![10](https://user-images.githubusercontent.com/43987455/50079625-6dc63180-022d-11e9-87c2-1d7f47ced0ed.JPG)
