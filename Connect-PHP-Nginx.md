@@ -132,7 +132,8 @@ upload_max_filesize = 10M
 
 * 探す方法 <br>
 ' / ' を入力して、探す単語を入力します。
-例：cgi.fix pathinfo = 0 を探す場合、/cgi.fix を入力します。'ｎ' ボタンは次です。
+例：cgi.fix pathinfo = 0 を探す場合、/cgi.fix を入力します。
+'ｎ' ボタンは次です。
 
 ![21](https://user-images.githubusercontent.com/43987455/50080259-0a3d0380-022f-11e9-82d7-a6936bd93511.JPG)
 ![22](https://user-images.githubusercontent.com/43987455/50080260-0a3d0380-022f-11e9-8323-77edd2c4604c.JPG)
