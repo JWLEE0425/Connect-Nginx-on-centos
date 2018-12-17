@@ -16,3 +16,20 @@ SELINUX=enforcing を SELINUX=disabled に
 
 ![59](https://user-images.githubusercontent.com/43987455/49986056-b2de2f80-ffb1-11e8-9fed-5189f4282b43.JPG)
 ![60](https://user-images.githubusercontent.com/43987455/49986057-b376c600-ffb1-11e8-8237-cabe21c66bc9.JPG)
+
+> iptablesアップデート
+
+![1](https://user-images.githubusercontent.com/43987455/50079255-79fdbf00-022c-11e9-8649-da979416070a.png)
+
+
+## Nginx設置
+
+> vi /etc/yum.repos.d/nginx.repo を作って下のコマンドを追加
+
+"'
+[nginx]
+name=nginx repo
+baseurl=http://nginx.org/packages/centos/7/$basearch/
+gpgcheck=0
+enabled=1
+"'
