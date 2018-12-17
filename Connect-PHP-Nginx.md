@@ -106,5 +106,14 @@ rpm -Uvh https://mirror.webtatic.com/yum/el7/webtatic-release.rpm
 yum install php70w-fpm php70w-opcache
 ~~~
 
+> 追加設置
+~~~
+yum install php70w-mysql php70w-gd php70w-curl php70w-mbstring php70w-mcrypt php70w-gettext php70w-pear
+~~~
 
+> 設置確認
+~~~
+php -v
+~~~
 
+![18](https://user-images.githubusercontent.com/43987455/50080132-c0ecb400-022e-11e9-992b-7d00cbefc7c0.JPG)
