@@ -56,5 +56,12 @@ gpgcheck=1
 
 ![10](https://user-images.githubusercontent.com/43987455/50079625-6dc63180-022d-11e9-87c2-1d7f47ced0ed.JPG)
 
+> vi /etc/my.cnf.d/mysql-clients.cnf ファイルを編集して下のコマンドを追加
+~~~
+default-character-set=uft8
+~~~
+
+![12](https://user-images.githubusercontent.com/43987455/50079823-fe047680-022d-11e9-93e1-72c236e8d633.JPG)
+
 
 
