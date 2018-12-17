@@ -160,6 +160,9 @@ listen = /var/run/php70w-fpm.sock
 ## PHP連結
 
 > vi /etc/nginx/conf.d/default.conf　ファイルを編集
+~~~
+vi /etc/nginx/conf.d/default.conf
+~~~
 
 ![27](https://user-images.githubusercontent.com/43987455/50080527-a6670a80-022f-11e9-9de6-ebca25ebfbba.JPG)
 
@@ -167,5 +170,20 @@ hostname -I でIPアドレス確認可能
 
 ![29](https://user-images.githubusercontent.com/43987455/50080526-a6670a80-022f-11e9-9155-ff35b7f14d87.JPG)
 ![28](https://user-images.githubusercontent.com/43987455/50080525-a6670a80-022f-11e9-81e2-a40b549f7440.JPG)
+
+> port番号の設定 vi /etc/sysconfig/iptables ファイルを変更
+~~~
+vi /etc/sysconfig/iptables
+~~~
+
+> iptablesに下のコマンド追加
+~~~
+-A INPUT -p tcp -m state --state NEW -m tcp --dport 80 -j ACCEPT
+~~~
+![33](https://user-images.githubusercontent.com/43987455/50080738-23927f80-0230-11e9-883e-1f8605d5e78c.JPG)
+
+> iptablesをreloadして、iptables -nLで確認
+
+![34](https://user-images.githubusercontent.com/43987455/50080740-24c3ac80-0230-11e9-9383-33c58c94c93a.JPG)
 
 
