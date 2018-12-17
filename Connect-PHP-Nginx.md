@@ -186,4 +186,25 @@ vi /etc/sysconfig/iptables
 
 ![34](https://user-images.githubusercontent.com/43987455/50080740-24c3ac80-0230-11e9-9383-33c58c94c93a.JPG)
 
+## テスト
+
+> Nginxテスト
+
+![31](https://user-images.githubusercontent.com/43987455/50080924-8a179d80-0230-11e9-9b83-ff83f3bbd982.JPG)
+![36](https://user-images.githubusercontent.com/43987455/50080824-52105a80-0230-11e9-9a86-1a05e0a05cea.JPG)
+
+urlでIPアドレス入力してNginxが出たら成功
+
+> PHPテスト
+
+vi /uar/share/nginx/html/でindex.phpファイルを作る
+~~~
+<?php phpinfo() ?>
+~~~
+
+![35](https://user-images.githubusercontent.com/43987455/50080825-52105a80-0230-11e9-95e9-2894629d321f.JPG)
+![37](https://user-images.githubusercontent.com/43987455/50080942-93a10580-0230-11e9-858a-567cf253f901.JPG)
+
+urlでIPアドレス入力してphpが出たら成功
+
 
