@@ -26,6 +26,7 @@ SELINUX=enforcing を SELINUX=disabled に
 
 > vi /etc/yum.repos.d/nginx.repo を作って下のコマンドを追加
 
+nginx.repo
 ~~~
 [nginx]
 name=nginx repo
